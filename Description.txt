@@ -1,0 +1,9 @@
+A sequence of data about applicants nameList of type Entrant and a sequence of integers
+yearList representing years are given. Each element of the nameList sequence includes
+the fields School number, Year of entering, Last name. Get data (a list of YearSchoolStat
+values) about the number of different schools that applicants graduated from, for each
+year from the yearList. YearSchoolStat includes Year of entering, Number of Schools
+fields. If in the given year of admission there are no applicants from the listed schools,
+indicate zero in the field Number of schools. The YearSchoolStat list must be sorted in
+ascending order by the number of schools, and for matching values, in ascending order
+by the year number.
